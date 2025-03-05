@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @camcglynn
 - 👀 I’m interested in social determinants of health, environmental justice, sustainability (and data science, of course!)
 - 🌱 I’m currently learning to program in Python, R, and Stata.
-- 💞️ I’m looking to collaborate on any projects aimed at understanding health outcomes, tracking impact of natural (and unnatural) disasters, and understanding human behavior through data.
+- 💞️ I’m looking to collaborate on any projects aimed at understanding population health outcomes, social determinants of health, tracking impact of natural disasters, and understanding human behavior through data.
 - 📫 How to reach me: cmcglynn@berkeley.edu!
 
 <!---
